@@ -12,7 +12,7 @@
 		"noImplicitAny": true
 	},
 	"exclude": [
-					"node_modules",
-					"wwwroot/libs"
+		"node_modules",
+		"wwwroot/libs"
 	]
 }
